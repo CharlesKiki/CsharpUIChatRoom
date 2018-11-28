@@ -1,0 +1,1 @@
+Open Vs 2017 and then Open click the Lan.csproj.
